@@ -124,7 +124,6 @@ if(isset($_POST['sended'])){
 
         
         <button type="submit"><img src="—Pngtree—vector play button icon_4184109.png" alt="Icone YT" width="20" height="20"></button><br>
-        <button type="reset">Resetar PlaYlist</button><br>
     </form>
 
     <div style="color: red;"><?= $msgErro ?></div>
